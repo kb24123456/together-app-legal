@@ -1,0 +1,7 @@
+title: Together Legal
+description: Together app's privacy policy and terms of service.
+theme: minima
+permalink: pretty
+lang: zh-CN
+exclude:
+  - README.md
