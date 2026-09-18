@@ -20,6 +20,8 @@ title: 一二 · 支持与法律文件
 - [旧版隐私政策](privacy-policy/)
 - [旧版服务条款](terms-of-service/)
 
-开发者：廖云丰（Yunfeng Liao）  
-联系邮箱：[billy357831193+together@gmail.com](mailto:billy357831193+together@gmail.com)  
+开发者：廖云丰（Yunfeng Liao）
+
+联系邮箱：[billy357831193+together@gmail.com](mailto:billy357831193+together@gmail.com)
+
 更新日期：2026-09-18

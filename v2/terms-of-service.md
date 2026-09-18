@@ -8,7 +8,7 @@ permalink: /v2/terms-of-service/
 
 更新日期：2026-09-18。适用于 2.0 个人待办版本，自你安装并使用该版本起适用。
 
-开发者：廖云丰（Yunfeng Liao）  
+开发者：廖云丰（Yunfeng Liao）
 联系邮箱：billy357831193+together@gmail.com
 
 ## 服务内容
